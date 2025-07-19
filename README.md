@@ -1,7 +1,7 @@
 
 # Building an Open Floor Parrot Agent in Python
 
-In this short guide, we will build a simple parrot agent together using Python. The parrot agent will simply repeat everything you send him and a small 🦜 emoji in front of the return. We will create the [Open Floor Protocol](https://github.com/open-voice-interoperability/openfloor-docs)-compliant agent with the help of the `openfloor` Python package.
+In this short guide, we will build a simple parrot agent together using Python. The parrot agent will simply repeat everything you send him and a small 🦜 emoji in front of the return. We will create the [Open Floor Protocol](https://github.com/open-voice-interoperability/openfloor-docs)-compliant agent with the help of the [openfloor](https://test.pypi.org/project/openfloor/) Python package.
 
 ## Initial Setup
 

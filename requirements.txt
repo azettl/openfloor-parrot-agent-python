@@ -1,0 +1,5 @@
+--extra-index-url https://test.pypi.org/simple/
+events==0.5
+jsonpath-ng>=1.5.0
+openfloor
+flask
